@@ -91,6 +91,10 @@
     <option name="LAST_COMMIT_MESSAGE" value="." />
   </component>
   <component name="WindowStateProjectService">
+    <state x="723" y="310" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1605283239593">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="723" y="310" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1605283239593" />
     <state x="690" y="267" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1605101847806">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -107,9 +111,9 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="773" y="142" key="Github.UntrackedFilesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1605282874435" />
-    <state x="552" y="249" key="Vcs.Push.Dialog.v2" timestamp="1605282977094">
+    <state x="552" y="249" key="Vcs.Push.Dialog.v2" timestamp="1605283454769">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="552" y="249" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1605282977094" />
+    <state x="552" y="249" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1605283454769" />
   </component>
 </project>
