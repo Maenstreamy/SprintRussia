@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="61782133-2971-416c-b40a-31890074cc25" name="Default Changelist" comment="" />
+    <list default="true" id="61782133-2971-416c-b40a-31890074cc25" name="Default Changelist" comment=".">
+      <change beforePath="$PROJECT_DIR$/.nojekyll" beforeDir="false" afterPath="$PROJECT_DIR$/.nojekyll" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -62,12 +64,31 @@
       <workItem from="1605106835649" duration="961000" />
       <workItem from="1605185888520" duration="14110000" />
       <workItem from="1605204392495" duration="55000" />
-      <workItem from="1605273031726" duration="9945000" />
+      <workItem from="1605273031726" duration="10318000" />
     </task>
+    <task id="LOCAL-00001" summary=".">
+      <created>1605283269288</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1605283269288</updated>
+    </task>
+    <task id="LOCAL-00002" summary=".">
+      <created>1605283298202</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1605283298202</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="." />
+    <option name="LAST_COMMIT_MESSAGE" value="." />
   </component>
   <component name="WindowStateProjectService">
     <state x="690" y="267" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1605101847806">
