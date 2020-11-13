@@ -1,0 +1,24 @@
+@import url("__navigation-link/footer__navigation-link.css");
+
+.footer__navigation {
+    display: flex;
+    justify-content: space-between;
+    width: 465px;
+    color: white;
+    font-weight: 300;
+    font-size: 16px;
+    line-height: 18px;
+    font-kerning: auto;
+}
+
+@media (max-width: 320px) {
+    .footer__navigation {
+        display: flex;
+        flex-direction: column;
+        height: 248px;
+        justify-content: space-between;
+        font-size: 24px;
+        line-height: 24px;
+        max-width: 158px;
+    }
+}

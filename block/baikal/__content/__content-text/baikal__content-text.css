@@ -1,0 +1,15 @@
+.baikal__content-text {
+    width: 360px;
+    margin: 0 auto;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 22px;
+}
+
+@media (max-width: 320px) {
+    .baikal__content-text {
+        font-size: 14px;
+        line-height: 16px;
+        max-width: 270px;
+    }
+}

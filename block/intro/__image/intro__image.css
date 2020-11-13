@@ -1,0 +1,28 @@
+.intro__image {
+    max-width: 984px;
+    height: 615px;
+    background-image: url("../../../assets/intro.svg");
+    background-size: cover;
+}
+
+@media (max-width: 1024px) {
+    .intro__image {
+        max-width: 928px;
+        height: 580px;
+        margin: 0 auto;
+    }
+}
+
+@media (max-width: 768px) {
+    .intro__image {
+        max-width: 768px;
+        height: 480px;
+    }
+}
+
+@media (max-width: 320px) {
+    .intro__image {
+        max-width: 320px;
+        height: 200px;
+    }
+}

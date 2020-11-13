@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="61782133-2971-416c-b40a-31890074cc25" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1jv62EhN3CxPAPDvgA62GZLcBQU" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\67fre\Desktop\SprintRussia\block\baikal\__content" />
+      <recent name="C:\Users\67fre\Desktop\SprintRussia\block\places\__card\__card-website\__card-url" />
+      <recent name="C:\Users\67fre\Desktop\SprintRussia\block\places\__card\__card-website\__card-link" />
+      <recent name="C:\Users\67fre\Desktop\SprintRussia\block\intro\__header" />
+      <recent name="C:\Users\67fre\Desktop\SprintRussia\block\header" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="61782133-2971-416c-b40a-31890074cc25" name="Default Changelist" comment="" />
+      <created>1604672008422</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1604672008422</updated>
+      <workItem from="1604672009458" duration="12759000" />
+      <workItem from="1604687290514" duration="33000" />
+      <workItem from="1604691356938" duration="2109000" />
+      <workItem from="1604843390718" duration="7700000" />
+      <workItem from="1604864597944" duration="7204000" />
+      <workItem from="1604929287680" duration="1347000" />
+      <workItem from="1604959947899" duration="944000" />
+      <workItem from="1605013668971" duration="9248000" />
+      <workItem from="1605041567670" duration="512000" />
+      <workItem from="1605054767155" duration="589000" />
+      <workItem from="1605099609686" duration="7160000" />
+      <workItem from="1605106835649" duration="961000" />
+      <workItem from="1605185888520" duration="14110000" />
+      <workItem from="1605204392495" duration="55000" />
+      <workItem from="1605273031726" duration="9621000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="690" y="267" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1605101847806">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="690" y="267" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1605101847806" />
+    <state x="740" y="275" key="FileChooserDialogImpl" timestamp="1605101439732">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="740" y="275" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1605101439732" />
+  </component>
+</project>

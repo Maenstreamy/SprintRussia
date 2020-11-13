@@ -1,0 +1,27 @@
+.places__card-header {
+    font-weight: 900;
+    font-size: 72px;
+    line-height: 76px;
+    margin: 0;
+    height: fit-content;
+    align-self: baseline;
+}
+
+@media (max-width: 768px) {
+    .places__card-header {
+        font-size: 42px;
+        line-height: 46px;
+        width: 320px;
+    }
+}
+
+@media (max-width: 320px) {
+    .places__card-header {
+        grid-area: header;
+        font-size: 32px;
+        line-height: 35px;
+        max-width: 288px;
+        width: 100%;
+        margin: 0 auto;
+    }
+}

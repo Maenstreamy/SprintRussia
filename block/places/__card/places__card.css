@@ -1,0 +1,46 @@
+@import url("__card-header/places__card-header.css");
+@import url("__card-website/places__card-website.css");
+@import url("__card-image/places__card-image.css");
+@import url("__card-text/places__card-text.css");
+
+.places__card {
+    display: grid;
+    grid-template-columns: minmax(auto, 460px) minmax(auto, 484px);
+    grid-template-rows: minmax(auto, 76px) minmax(auto, 460px);
+    grid-gap: 48px 40px;
+    color: white;
+    align-items: end;
+    margin: 0 0 80px;
+}
+
+@media (max-width: 1024px) {
+    .places__card {
+        grid-template-columns: minmax(auto, 440px) minmax(auto, 456px);
+        grid-template-rows: minmax(auto, 76px) minmax(auto, 440px);
+        grid-gap: 48px 32px;
+        max-width: 928px;
+        margin: 0 auto 80px;
+    }
+}
+
+@media (max-width: 768px) {
+    .places__card {
+        grid-template-columns: minmax(auto, 340px) minmax(auto, 352px);
+        grid-template-rows: minmax(auto, 76px) minmax(auto, 440px);
+        grid-gap: 48px 28px;
+        max-width: 720px;
+        margin: 0 auto 72px;
+    }
+}
+
+@media (max-width: 320px) {
+    .places__card {
+        grid-template-areas: "header"
+                             "image"
+                             "text";
+        grid-template-columns: minmax(auto, 320px);
+        grid-template-rows: minmax(auto, 35px) minmax(auto, 320px) auto;
+        grid-gap: 32px;
+        margin: 0 auto 48px;
+    }
+}

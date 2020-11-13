@@ -1,0 +1,26 @@
+.gallery__images-img {
+    max-width: 284px;
+    height: 213px;
+    width: 100%;
+}
+
+@media (max-width: 1024px) {
+    .gallery__images-img {
+        max-width: 300px;
+        height: 225px;
+    }
+}
+
+@media (max-width: 768px) {
+    .gallery__images-img {
+        max-width: 352px;
+        height: 264px;
+    }
+}
+
+@media (max-width: 320px) {
+    .gallery__images-img {
+        max-width: 288px;
+        height: 216px;
+    }
+}

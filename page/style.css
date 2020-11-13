@@ -1,0 +1,30 @@
+@import url("../vendor/normalize.css");
+@import url("../block/header/header.css");
+@import url("../block/intro/intro.css");
+@import url("../block/description/description.css");
+@import url("../block/gallery/gallery.css");
+@import url("../block/places/places.css");
+@import url("../block/baikal/baikal.css");
+@import url("../block/footer/footer.css");
+
+body {
+    font-family: 'Inter', sans-serif;
+    background-color: #2A2C2F;
+    -webkit-font-smoothing: antialiased;
+    font-weight: 300;
+    font-kerning: auto;
+}
+.page {
+     margin: 0 auto;
+     max-width: 1280px;
+     width: 100%;
+     background-color: #2A2C2F;
+}
+
+@media (max-width: 768px) {
+    .page {
+        max-width: 768px;
+        width: 100%;
+        margin: 0 auto;
+    }
+}

@@ -1,0 +1,13 @@
+@import url("__card-url/places__card-url.css");
+@import url("__card-link/places__card-link.css");
+
+.places__card-website {
+    max-width: 456px;
+    height: 46px;
+}
+
+@media (max-width: 320px) {
+    .places__card-website {
+        display: none;
+    }
+}

@@ -1,0 +1,10 @@
+.places__card-link {
+    font-size: 18px;
+    line-height: 22px;
+    color: white;
+    transition: 0.4s linear;
+}
+
+.places__card-link:hover {
+    opacity: 0.8;
+}

@@ -1,0 +1,6 @@
+@import url("__objects-text/description__objects-text.css");
+@import url("__objects-num/description__objects-num.css");
+
+.description__objects {
+    width: 290px;
+}

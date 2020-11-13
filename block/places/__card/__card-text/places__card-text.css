@@ -1,0 +1,33 @@
+@import url("__card-paragraph1/places__card-paragraph1.css");
+@import url("__card-paragraph2/places__card-paragraph2.css");
+
+.places__card-text {
+    align-self: baseline;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 30px;
+}
+
+@media (max-width: 826px) {
+    .places__card-text {
+        font-size: 16px;
+        line-height: 26px;
+    }
+}
+
+@media (max-width: 768px) {
+    .places__card-text {
+        font-size: 16px;
+        line-height: 26px;
+        max-width: 352px;
+    }
+}
+
+@media (max-width: 320px) {
+    .places__card-text {
+        grid-area: text;
+        max-width: 288px;
+        margin: 0 auto;
+    }
+}

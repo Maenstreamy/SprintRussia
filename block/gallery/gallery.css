@@ -1,0 +1,20 @@
+@import url("__images/gallery__images.css");
+@import url("__images/gallery__images-img.css");
+
+.gallery {
+    max-width: 1186px;
+    width: 100%;
+    margin: 0 auto 92px;
+}
+
+@media (max-width: 768px) {
+    .gallery {
+        margin: 0 auto 88px;
+    }
+}
+
+@media (max-width: 320px) {
+    .gallery {
+        margin: 0 auto 64px;
+    }
+}
