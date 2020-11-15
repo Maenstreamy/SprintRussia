@@ -24,10 +24,40 @@
     }
 }
 
+@media (max-width: 670px) {
+    .places__card-text {
+        font-size: 14px;
+        line-height: 20px;
+    }
+}
+
+@media (max-width: 579px) {
+    .places__card-text {
+        font-size: 12px;
+        line-height: 18px;
+    }
+}
+
+@media (max-width: 525px) {
+    .places__card-text {
+        font-size: 10px;
+        line-height: 15px;
+    }
+}
+
+@media (max-width: 486px) {
+    .places__card-text {
+        font-size: 6px;
+        line-height: 10px;
+    }
+}
+
 @media (max-width: 320px) {
     .places__card-text {
         grid-area: text;
         max-width: 288px;
         margin: 0 auto;
+        font-size: 16px;
+        line-height: 26px;
     }
 }

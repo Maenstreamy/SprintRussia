@@ -8,3 +8,15 @@
 .places__card-link:hover {
     opacity: 0.8;
 }
+
+@media (max-width: 580px) {
+    .places__card-link {
+        font-size: 10px;
+    }
+}
+
+@media (max-width: 486px) {
+    .places__card-link {
+        font-size: 6px;
+    }
+}

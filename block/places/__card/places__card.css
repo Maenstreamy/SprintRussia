@@ -33,6 +33,14 @@
     }
 }
 
+@media (max-width: 486px) {
+    .places__card {
+        grid-template-columns: minmax(auto, 250px) minmax(auto, 260px);
+        grid-template-rows: minmax(auto, 76px) minmax(auto, 300px);
+        grid-gap: 5px;
+    }
+}
+
 @media (max-width: 320px) {
     .places__card {
         grid-template-areas: "header"

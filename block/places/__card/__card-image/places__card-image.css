@@ -18,6 +18,13 @@
     }
 }
 
+@media (max-width: 486px) {
+    .places__card-image {
+        width: 250px;
+        height: 250px;
+    }
+}
+
 @media (max-width: 320px) {
     .places__card-image {
         grid-area: image;
