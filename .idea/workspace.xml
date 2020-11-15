@@ -1,26 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="61782133-2971-416c-b40a-31890074cc25" name="Default Changelist" comment=".">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/block/baikal/__content/__content-header/baikal__content-header.css" beforeDir="false" afterPath="$PROJECT_DIR$/block/baikal/__content/__content-header/baikal__content-header.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/block/baikal/__content/__content-text/baikal__content-text.css" beforeDir="false" afterPath="$PROJECT_DIR$/block/baikal/__content/__content-text/baikal__content-text.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/block/description/description.css" beforeDir="false" afterPath="$PROJECT_DIR$/block/description/description.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/block/footer/__name/footer__name.css" beforeDir="false" afterPath="$PROJECT_DIR$/block/footer/__name/footer__name.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/block/footer/__navigation/footer__navigation.css" beforeDir="false" afterPath="$PROJECT_DIR$/block/footer/__navigation/footer__navigation.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/block/gallery/__images/gallery__images-img.css" beforeDir="false" afterPath="$PROJECT_DIR$/block/gallery/__images/gallery__images-img.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/block/intro/__header/__header-text/intro__header-text.css" beforeDir="false" afterPath="$PROJECT_DIR$/block/intro/__header/__header-text/intro__header-text.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/block/intro/__header/__header-title/intro__header-title.css" beforeDir="false" afterPath="$PROJECT_DIR$/block/intro/__header/__header-title/intro__header-title.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/block/intro/__image/intro__image.css" beforeDir="false" afterPath="$PROJECT_DIR$/block/intro/__image/intro__image.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/block/places/__card/__card-header/places__card-header.css" beforeDir="false" afterPath="$PROJECT_DIR$/block/places/__card/__card-header/places__card-header.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/block/places/__card/__card-image/places__card-image.css" beforeDir="false" afterPath="$PROJECT_DIR$/block/places/__card/__card-image/places__card-image.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/block/places/__card/__card-text/places__card-text.css" beforeDir="false" afterPath="$PROJECT_DIR$/block/places/__card/__card-text/places__card-text.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/block/places/__card/__card-website/__card-link/places__card-link.css" beforeDir="false" afterPath="$PROJECT_DIR$/block/places/__card/__card-website/__card-link/places__card-link.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/block/places/__card/places__card.css" beforeDir="false" afterPath="$PROJECT_DIR$/block/places/__card/places__card.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/block/places/places.css" beforeDir="false" afterPath="$PROJECT_DIR$/block/places/places.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/page/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/page/style.css" afterDir="false" />
-    </list>
+    <list default="true" id="61782133-2971-416c-b40a-31890074cc25" name="Default Changelist" comment="." />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -85,6 +84,7 @@
       <workItem from="1605357967995" duration="10718000" />
       <workItem from="1605386078520" duration="209000" />
       <workItem from="1605398215185" duration="3983000" />
+      <workItem from="1605441974509" duration="296000" />
     </task>
     <task id="LOCAL-00001" summary=".">
       <created>1605283269288</created>
@@ -114,11 +114,29 @@
       <option name="project" value="LOCAL" />
       <updated>1605283607179</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary=".">
+      <created>1605442023751</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1605442023751</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="." />
