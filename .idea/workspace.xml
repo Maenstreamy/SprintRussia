@@ -19,7 +19,10 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="61782133-2971-416c-b40a-31890074cc25" name="Default Changelist" comment="." />
+    <list default="true" id="61782133-2971-416c-b40a-31890074cc25" name="Default Changelist" comment=".">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/block/intro/__header/__header-title/intro__header-title.css" beforeDir="false" afterPath="$PROJECT_DIR$/block/intro/__header/__header-title/intro__header-title.css" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -84,7 +87,8 @@
       <workItem from="1605357967995" duration="10718000" />
       <workItem from="1605386078520" duration="209000" />
       <workItem from="1605398215185" duration="3983000" />
-      <workItem from="1605441974509" duration="296000" />
+      <workItem from="1605441974509" duration="1202000" />
+      <workItem from="1605478938347" duration="464000" />
     </task>
     <task id="LOCAL-00001" summary=".">
       <created>1605283269288</created>
@@ -121,7 +125,14 @@
       <option name="project" value="LOCAL" />
       <updated>1605442023751</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary=".">
+      <created>1605442335733</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1605442335733</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -137,6 +148,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="." />
@@ -163,9 +175,9 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="773" y="142" key="Github.UntrackedFilesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1605282874435" />
-    <state x="552" y="249" key="Vcs.Push.Dialog.v2" timestamp="1605283613624">
+    <state x="552" y="249" key="Vcs.Push.Dialog.v2" timestamp="1605442354661">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="552" y="249" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1605283613624" />
+    <state x="552" y="249" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1605442354661" />
   </component>
 </project>

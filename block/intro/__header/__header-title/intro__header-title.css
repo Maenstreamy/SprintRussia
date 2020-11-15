@@ -30,7 +30,8 @@
         margin: 0 auto 32px;
         font-size: 50px;
         max-width: 450px;
-        height: 200px;
+        height: 100px;
+        line-height: normal;
     }
 }
 
