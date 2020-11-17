@@ -21,19 +21,6 @@
   <component name="ChangeListManager">
     <list default="true" id="61782133-2971-416c-b40a-31890074cc25" name="Default Changelist" comment=".">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/block/baikal/__content/__content-header/baikal__content-header.css" beforeDir="false" afterPath="$PROJECT_DIR$/block/baikal/__content/__content-header/baikal__content-header.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/block/baikal/__content/__content-text/baikal__content-text.css" beforeDir="false" afterPath="$PROJECT_DIR$/block/baikal/__content/__content-text/baikal__content-text.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/block/baikal/baikal.css" beforeDir="false" afterPath="$PROJECT_DIR$/block/baikal/baikal.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/block/footer/__name/footer__name.css" beforeDir="false" afterPath="$PROJECT_DIR$/block/footer/__name/footer__name.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/block/footer/__navigation/footer__navigation.css" beforeDir="false" afterPath="$PROJECT_DIR$/block/footer/__navigation/footer__navigation.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/block/footer/footer.css" beforeDir="false" afterPath="$PROJECT_DIR$/block/footer/footer.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/block/gallery/__images/gallery__images-img.css" beforeDir="false" afterPath="$PROJECT_DIR$/block/gallery/__images/gallery__images-img.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/block/gallery/gallery.css" beforeDir="false" afterPath="$PROJECT_DIR$/block/gallery/gallery.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/block/intro/__header/__header-title/intro__header-title.css" beforeDir="false" afterPath="$PROJECT_DIR$/block/intro/__header/__header-title/intro__header-title.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/block/places/__card/__card-header/places__card-header.css" beforeDir="false" afterPath="$PROJECT_DIR$/block/places/__card/__card-header/places__card-header.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/block/places/places.css" beforeDir="false" afterPath="$PROJECT_DIR$/block/places/places.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/page/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/page/style.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -102,7 +89,7 @@
       <workItem from="1605441974509" duration="1202000" />
       <workItem from="1605478938347" duration="637000" />
       <workItem from="1605537593308" duration="3565000" />
-      <workItem from="1605618589000" duration="5541000" />
+      <workItem from="1605618589000" duration="6179000" />
     </task>
     <task id="LOCAL-00001" summary=".">
       <created>1605283269288</created>
@@ -153,7 +140,14 @@
       <option name="project" value="LOCAL" />
       <updated>1605479435070</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary=".">
+      <created>1605624206584</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1605624206584</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -196,9 +190,9 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="773" y="142" key="Github.UntrackedFilesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1605282874435" />
-    <state x="552" y="249" key="Vcs.Push.Dialog.v2" timestamp="1605479498079">
+    <state x="552" y="249" key="Vcs.Push.Dialog.v2" timestamp="1605624235598">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="552" y="249" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1605479498079" />
+    <state x="552" y="249" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1605624235598" />
   </component>
 </project>
