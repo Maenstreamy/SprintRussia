@@ -8,8 +8,7 @@
 
 @media (max-width: 437px) {
     .baikal__content-text {
-        font-size: 10px;
-        line-height: 12px;
+        font-size: 15px;
         max-width: 270px;
     }
 }

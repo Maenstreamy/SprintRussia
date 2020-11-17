@@ -6,6 +6,11 @@
 @import url("../block/places/places.css");
 @import url("../block/baikal/baikal.css");
 @import url("../block/footer/footer.css");
+@font-face {
+    font-family: 'Inter', sans-serif;
+    src: url("../fonts/Inter/Inter-VariableFont_slnt,wght.ttf") format("truetype");
+    font-style: normal;
+}
 
 body {
     font-family: 'Inter', sans-serif;

@@ -25,6 +25,15 @@
     }
 }
 
+@media (max-width: 610px) {
+    .footer {
+        max-width: 186px;
+        margin: 0 0 24px 16px;
+        display: flex;
+        flex-direction: column;
+    }
+}
+
 @media (max-width: 320px) {
     .footer {
         max-width: 186px;

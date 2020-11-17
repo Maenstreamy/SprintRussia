@@ -12,15 +12,15 @@
     height: fit-content;
 }
 
-@media (max-width: 470px) {
+@media (max-width: 610px) {
     .footer__navigation {
-        font-size: 12px;
-    }
-}
-
-@media (max-width: 350px) {
-    .footer__navigation {
-        font-size: 10px;
+        display: flex;
+        flex-direction: column;
+        height: 248px;
+        justify-content: space-between;
+        font-size: 24px;
+        line-height: 24px;
+        max-width: 158px;
     }
 }
 

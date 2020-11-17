@@ -5,22 +5,8 @@
     color: white;
 }
 
-@media (max-width: 470px) {
+@media (max-width: 610px) {
     .footer__name {
-        font-size: 10px;
-    }
-}
-
-@media (max-width: 350px) {
-    .footer__name {
-        font-size: 7px;
-        line-height: 14px;
-    }
-}
-
-@media (max-width: 320px) {
-    .footer__name {
-        line-height: 14px;
-        margin: 48px 0 0;
+        margin-top: 48px;
     }
 }

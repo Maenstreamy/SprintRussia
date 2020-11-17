@@ -9,9 +9,7 @@
 
 @media (max-width: 437px) {
     .baikal__content-header {
-        font-size: 20px;
-        line-height: 20px;
-        max-width: 250px;
+        font-size: 50px;
     }
 }
 
