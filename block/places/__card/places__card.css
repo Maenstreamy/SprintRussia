@@ -16,7 +16,7 @@
 @media (max-width: 1024px) {
     .places__card {
         grid-template-columns: minmax(auto, 440px) minmax(auto, 456px);
-        grid-template-rows: minmax(auto, 76px) minmax(auto, 440px);
+        grid-template-rows: minmax(auto, 76px) minmax(auto, auto);
         grid-gap: 48px 32px;
         max-width: 928px;
         margin: 0 auto 80px;
@@ -33,11 +33,22 @@
     }
 }
 
+@media (max-width: 660px) {
+    .places__card {
+        grid-template-columns: minmax(auto, auto) minmax(auto, auto);
+        grid-template-rows: minmax(auto, 76px) minmax(auto, auto);
+        grid-gap: 20px;
+        max-width: 720px;
+        margin: 0 auto 72px;
+    }
+}
+
 @media (max-width: 486px) {
     .places__card {
-        grid-template-columns: minmax(auto, 250px) minmax(auto, 260px);
-        grid-template-rows: minmax(auto, 76px) minmax(auto, 300px);
-        grid-gap: 5px;
+        grid-template-columns: minmax(auto, auto) minmax(auto, auto);
+        grid-template-rows: minmax(auto, auto) minmax(auto, 230px);
+        grid-gap: 8px;
+        margin: 0 auto 30px;
     }
 }
 

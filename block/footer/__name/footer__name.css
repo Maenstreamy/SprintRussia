@@ -10,3 +10,10 @@
         margin-top: 48px;
     }
 }
+
+@media (max-width: 468px) {
+    .footer__name {
+        margin-top: 30px;
+        font-size: 12px;
+    }
+}

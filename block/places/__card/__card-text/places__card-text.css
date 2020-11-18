@@ -20,7 +20,6 @@
     .places__card-text {
         font-size: 16px;
         line-height: 26px;
-        max-width: 352px;
     }
 }
 
@@ -41,13 +40,13 @@
 @media (max-width: 525px) {
     .places__card-text {
         font-size: 10px;
-        line-height: 15px;
+        line-height: 10px;
     }
 }
 
-@media (max-width: 486px) {
+@media (max-width: 378px) {
     .places__card-text {
-        font-size: 6px;
+        font-size: 8px;
         line-height: 10px;
     }
 }

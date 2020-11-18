@@ -13,3 +13,14 @@
     max-height: 740px;
 }
 
+@media (max-width: 768px) {
+    .baikal {
+        margin: 0 auto 88px;
+    }
+}
+
+@media (max-width: 468px) {
+    .baikal {
+        margin: 0 auto 62px;
+    }
+}

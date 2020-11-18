@@ -9,14 +9,20 @@
     opacity: 0.8;
 }
 
-@media (max-width: 580px) {
+@media (max-width: 670px) {
     .places__card-link {
-        font-size: 10px;
+        font-size: 14px;
+    }
+}
+
+@media (max-width: 579px) {
+    .places__card-link {
+        font-size: 12px;
     }
 }
 
 @media (max-width: 486px) {
     .places__card-link {
-        font-size: 6px;
+        font-size: 8px;
     }
 }

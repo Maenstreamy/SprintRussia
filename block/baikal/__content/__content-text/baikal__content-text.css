@@ -6,10 +6,18 @@
     line-height: 22px;
 }
 
-@media (max-width: 437px) {
+@media (max-width: 486px) {
     .baikal__content-text {
         font-size: 15px;
         max-width: 270px;
+    }
+}
+
+@media (max-width: 360px) {
+    .baikal__content-text {
+        font-size: 12px;
+        max-width: 270px;
+        line-height: 15px;
     }
 }
 

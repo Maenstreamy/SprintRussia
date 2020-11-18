@@ -1,3 +1,9 @@
 .places__card-paragraph1 {
     margin: 0 0 24px;
 }
+
+@media (max-width: 486px) {
+    .places__card-paragraph1 {
+        margin: 0 0 12px;
+    }
+}

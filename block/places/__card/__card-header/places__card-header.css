@@ -12,12 +12,30 @@
         font-size: 42px;
         line-height: 46px;
         max-width: 320px;
+        align-self: end;
+    }
+}
+
+@media (max-width: 660px) {
+    .places__card-header {
+        font-size: 36px;
+        line-height: 46px;
+        max-width: 200px;
+        align-self: end;
     }
 }
 
 @media (max-width: 486px) {
     .places__card-header {
+        font-size: 30px;
+        line-height: 28px;
         max-width: 200px;
+    }
+}
+
+@media (max-width: 350px) {
+    .places__card-header {
+        max-width: 180px;
     }
 }
 
