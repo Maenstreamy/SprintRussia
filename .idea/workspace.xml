@@ -20,7 +20,21 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="61782133-2971-416c-b40a-31890074cc25" name="Default Changelist" comment=".">
+      <change afterPath="$PROJECT_DIR$/fonts/fonts.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/Inter/Inter-VariableFont_slnt,wght.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/Inter/OFL.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/Inter/README.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/Inter/static/Inter-Black-slnt=0.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/Inter/static/Inter-Bold-slnt=0.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/Inter/static/Inter-ExtraBold-slnt=0.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/Inter/static/Inter-ExtraLight-slnt=0.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/Inter/static/Inter-Light-slnt=0.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/Inter/static/Inter-Medium-slnt=0.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/Inter/static/Inter-Regular-slnt=0.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/Inter/static/Inter-SemiBold-slnt=0.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/Inter/static/Inter-Thin-slnt=0.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/page/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/page/style.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -92,6 +106,7 @@
       <workItem from="1605618589000" duration="6179000" />
       <workItem from="1605651789912" duration="2035000" />
       <workItem from="1605702569701" duration="7593000" />
+      <workItem from="1605712925574" duration="5252000" />
     </task>
     <task id="LOCAL-00001" summary=".">
       <created>1605283269288</created>
@@ -170,7 +185,14 @@
       <option name="project" value="LOCAL" />
       <updated>1605710189807</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary=".">
+      <created>1605713023602</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1605713023602</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -213,9 +235,9 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="773" y="142" key="Github.UntrackedFilesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1605282874435" />
-    <state x="552" y="249" key="Vcs.Push.Dialog.v2" timestamp="1605710206092">
+    <state x="552" y="249" key="Vcs.Push.Dialog.v2" timestamp="1605713035611">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="552" y="249" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1605710206092" />
+    <state x="552" y="249" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1605713035611" />
   </component>
 </project>

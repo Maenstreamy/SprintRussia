@@ -1,3 +1,4 @@
+@import url("../fonts/fonts.css");
 @import url("../vendor/normalize.css");
 @import url("../block/header/header.css");
 @import url("../block/intro/intro.css");
@@ -6,18 +7,12 @@
 @import url("../block/places/places.css");
 @import url("../block/baikal/baikal.css");
 @import url("../block/footer/footer.css");
-@font-face {
-    font-family: 'Inter', sans-serif;
-    src: local('Inter'),
-    url("../fonts/Inter/Inter-VariableFont_slnt,wght.ttf") format("truetype");
-    font-style: normal;
-}
 
 body {
-    font-family: 'Inter', sans-serif;
+    font-family: 'Inter', sans-serif;;
     background-color: #2A2C2F;
     -webkit-font-smoothing: antialiased;
-    font-weight: 300;
+    font-weight: 400;
     font-kerning: auto;
 }
 .page {
