@@ -19,23 +19,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="61782133-2971-416c-b40a-31890074cc25" name="Default Changelist" comment=".">
-      <change afterPath="$PROJECT_DIR$/fonts/fonts.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/fonts/Inter/Inter-VariableFont_slnt,wght.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/fonts/Inter/OFL.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/fonts/Inter/README.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/fonts/Inter/static/Inter-Black-slnt=0.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/fonts/Inter/static/Inter-Bold-slnt=0.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/fonts/Inter/static/Inter-ExtraBold-slnt=0.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/fonts/Inter/static/Inter-ExtraLight-slnt=0.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/fonts/Inter/static/Inter-Light-slnt=0.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/fonts/Inter/static/Inter-Medium-slnt=0.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/fonts/Inter/static/Inter-Regular-slnt=0.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/fonts/Inter/static/Inter-SemiBold-slnt=0.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/fonts/Inter/static/Inter-Thin-slnt=0.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/page/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/page/style.css" afterDir="false" />
-    </list>
+    <list default="true" id="61782133-2971-416c-b40a-31890074cc25" name="Default Changelist" comment="." />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -106,7 +90,7 @@
       <workItem from="1605618589000" duration="6179000" />
       <workItem from="1605651789912" duration="2035000" />
       <workItem from="1605702569701" duration="7593000" />
-      <workItem from="1605712925574" duration="5252000" />
+      <workItem from="1605712925574" duration="5327000" />
     </task>
     <task id="LOCAL-00001" summary=".">
       <created>1605283269288</created>
@@ -192,7 +176,21 @@
       <option name="project" value="LOCAL" />
       <updated>1605713023602</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary=".">
+      <created>1605719261622</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1605719261622</updated>
+    </task>
+    <task id="LOCAL-00014" summary=".">
+      <created>1605719293568</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1605719293568</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
