@@ -21,20 +21,6 @@
   <component name="ChangeListManager">
     <list default="true" id="61782133-2971-416c-b40a-31890074cc25" name="Default Changelist" comment=".">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/block/baikal/__content/__content-header/baikal__content-header.css" beforeDir="false" afterPath="$PROJECT_DIR$/block/baikal/__content/__content-header/baikal__content-header.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/block/baikal/__content/__content-text/baikal__content-text.css" beforeDir="false" afterPath="$PROJECT_DIR$/block/baikal/__content/__content-text/baikal__content-text.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/block/baikal/__content/baikal__content.css" beforeDir="false" afterPath="$PROJECT_DIR$/block/baikal/__content/baikal__content.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/block/baikal/baikal.css" beforeDir="false" afterPath="$PROJECT_DIR$/block/baikal/baikal.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/block/footer/__name/footer__name.css" beforeDir="false" afterPath="$PROJECT_DIR$/block/footer/__name/footer__name.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/block/footer/__navigation/footer__navigation.css" beforeDir="false" afterPath="$PROJECT_DIR$/block/footer/__navigation/footer__navigation.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/block/places/__card/__card-header/places__card-header.css" beforeDir="false" afterPath="$PROJECT_DIR$/block/places/__card/__card-header/places__card-header.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/block/places/__card/__card-image/places__card-image.css" beforeDir="false" afterPath="$PROJECT_DIR$/block/places/__card/__card-image/places__card-image.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/block/places/__card/__card-text/__card-paragraph1/places__card-paragraph1.css" beforeDir="false" afterPath="$PROJECT_DIR$/block/places/__card/__card-text/__card-paragraph1/places__card-paragraph1.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/block/places/__card/__card-text/places__card-text.css" beforeDir="false" afterPath="$PROJECT_DIR$/block/places/__card/__card-text/places__card-text.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/block/places/__card/__card-website/__card-link/places__card-link.css" beforeDir="false" afterPath="$PROJECT_DIR$/block/places/__card/__card-website/__card-link/places__card-link.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/block/places/__card/__card-website/__card-url/places__card-url.css" beforeDir="false" afterPath="$PROJECT_DIR$/block/places/__card/__card-website/__card-url/places__card-url.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/block/places/__card/places__card.css" beforeDir="false" afterPath="$PROJECT_DIR$/block/places/__card/places__card.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/block/places/places.css" beforeDir="false" afterPath="$PROJECT_DIR$/block/places/places.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -105,7 +91,7 @@
       <workItem from="1605537593308" duration="3565000" />
       <workItem from="1605618589000" duration="6179000" />
       <workItem from="1605651789912" duration="2035000" />
-      <workItem from="1605702569701" duration="7291000" />
+      <workItem from="1605702569701" duration="7593000" />
     </task>
     <task id="LOCAL-00001" summary=".">
       <created>1605283269288</created>
@@ -170,7 +156,21 @@
       <option name="project" value="LOCAL" />
       <updated>1605651811486</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary=".">
+      <created>1605710113506</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1605710113506</updated>
+    </task>
+    <task id="LOCAL-00011" summary=".">
+      <created>1605710189807</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1605710189807</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -213,9 +213,9 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="773" y="142" key="Github.UntrackedFilesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1605282874435" />
-    <state x="552" y="249" key="Vcs.Push.Dialog.v2" timestamp="1605651818517">
+    <state x="552" y="249" key="Vcs.Push.Dialog.v2" timestamp="1605710206092">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="552" y="249" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1605651818517" />
+    <state x="552" y="249" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1605710206092" />
   </component>
 </project>
